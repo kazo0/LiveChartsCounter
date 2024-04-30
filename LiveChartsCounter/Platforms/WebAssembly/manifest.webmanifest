@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "LiveChartsCounter",
+  "display": "standalone",
+  "name": "LiveChartsCounter",
+  "short_name": "LiveChartsCounter",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
